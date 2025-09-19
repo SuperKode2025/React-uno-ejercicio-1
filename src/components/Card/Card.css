@@ -24,6 +24,7 @@
 .card-title {
   font-size: 1.5rem;
   margin: 10px 0;
+  color: #333;
 }
 
 .card-description {
@@ -38,4 +39,11 @@
   gap: 20px;
   flex-wrap: wrap;
   margin-top: 20px;
+}
+
+.card-role {
+  color: #666;
+  font-size: 1rem;
+  margin: 0.5rem 0;
+  text-align: center;
 }

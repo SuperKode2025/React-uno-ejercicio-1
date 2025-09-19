@@ -14,16 +14,19 @@ function App() {
       <h1>Tarjetas</h1>
       <div className="card-container">
         <Card
+          title="Escritor Creativo"
           name="Sergio"
           image="https://i.postimg.cc/NKSM0LfZ/sergio.png?text=Sergio"
           description="Amante de los libros de fantasía, los gatos y el café ☕. Siempre buscando nuevas ideas para crear."
         />
         <Card
+          title="Diseñadora UX/UI"
           name="Julia"
           image="https://i.ibb.co/GfTCRLHz/Julia.png?text=Julia"
           description="Diseñadora gráfica apasionada por el arte digital y los viajes ✈️."
         />
         <Card
+          title="Desarrollador Full Stack"
           name="Calero"
           image="https://i.ibb.co/Q7jT3bjL/689fd923ecc5bb44778538ed7ea6f314.png?text=Calero"
           description="Programador que vive entre líneas de código y melodías de jazz 🎷."
