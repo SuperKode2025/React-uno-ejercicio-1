@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
 import Botoncito from './components/Buttons/Botoncito';
 import Card from './components/Card/Card';
 import './App.css';
@@ -56,9 +55,3 @@ function App() {
 }
 
 export default App;
-
-ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
