@@ -21,13 +21,13 @@ function App() {
         <Card
           title="Diseñadora UX/UI"
           name="Julia"
-          image="https://i.ibb.co/GfTCRLHz/Julia.png?text=Julia"
+          image="https://i.postimg.cc/tg44STV2/Julia.png"
           description="Diseñadora gráfica apasionada por el arte digital y los viajes ✈️."
         />
         <Card
           title="Desarrollador Full Stack"
           name="Calero"
-          image="https://i.ibb.co/Q7jT3bjL/689fd923ecc5bb44778538ed7ea6f314.png?text=Calero"
+          image="https://i.postimg.cc/63D6pfbm/689fd923ecc5bb44778538ed7ea6f314.png"
           description="Programador que vive entre líneas de código y melodías de jazz 🎷."
         />
       </div>
